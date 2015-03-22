@@ -1,6 +1,6 @@
-This is a fork of jollyjinx/encfs repo, just so it can be easilly installed by "brew tap"
+This is a fork of [jollyjinx/encfs](https://github.com/jollyjinx/encfs.macosx) repo, just so it can be easilly installed by "brew tap"
 
-It will probably not be maintained
+It will probably not be maintained, since I know almost nothing about FUSE, encfs or homebrew :)
 
 encFS with osxfuse
 ==================
