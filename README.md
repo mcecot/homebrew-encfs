@@ -1,3 +1,7 @@
+This is a fork of jollyjinx/encfs repo, just so it can be easilly installed by "brew tap"
+
+It will probably not be maintained
+
 encFS with osxfuse
 ==================
 
@@ -11,8 +15,8 @@ Installing with Homebrew
 ------------------------
 
     brew update              && \
-    brew tap jollyjinx/encfs && \
-    brew install jollyjinx/encfs/encfs
+    brew tap runn1ng/encfs && \
+    brew install runn1ng/encfs/encfs
 
 Be sure to follow the instructions in the caveats for osxfuse, similar to:
 
